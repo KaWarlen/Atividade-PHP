@@ -1,0 +1,12 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+
+class Categoria extends Model
+{
+   // Insere e já pega o ID gerado
+
+
+}
