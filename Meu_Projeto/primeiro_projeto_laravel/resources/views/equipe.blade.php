@@ -1,1 +1,0 @@
-<h1>Pagina da Equipe</h1>
